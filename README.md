@@ -1,46 +1,161 @@
-# Getting Started with Create React App
+# Kobo Labs - Global Research Collaboration Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A beautiful, modern website for Kobo Labs, a research laboratory company focused on connecting researchers worldwide for collaboration, publication, and innovation.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- **Modern Design**: Beautiful, responsive design with smooth animations
+- **Professional Branding**: Custom logo and consistent visual identity
+- **Research Focus**: Dedicated sections for different research areas
+- **Collaboration Tools**: Showcase of platform features for researchers
+- **Contact System**: Professional contact form and information
+- **Mobile Responsive**: Optimized for all device sizes
 
-### `npm start`
+## 🎨 Design Elements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Color Scheme**: Professional blue and purple gradients
+- **Typography**: Modern Inter font for readability
+- **Animations**: Smooth Framer Motion animations
+- **Icons**: Heroicons for consistent iconography
+- **Layout**: Clean, spacious design with proper visual hierarchy
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠️ Technology Stack
 
-### `npm test`
+- **Frontend**: React 18 with TypeScript
+- **Styling**: Tailwind CSS with custom components
+- **Animations**: Framer Motion
+- **Icons**: Heroicons
+- **Build Tool**: Create React App
+- **Package Manager**: npm
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📁 Project Structure
 
-### `npm run build`
+```
+src/
+├── components/
+│   ├── Header.tsx          # Navigation header
+│   ├── Hero.tsx            # Hero section with main messaging
+│   ├── About.tsx           # About section and mission
+│   ├── Research.tsx        # Research areas showcase
+│   ├── Collaborate.tsx     # Collaboration features
+│   ├── Contact.tsx         # Contact form and information
+│   ├── Footer.tsx          # Footer with links
+│   └── Logo.tsx            # Custom logo component
+├── App.tsx                 # Main app component
+├── index.css               # Tailwind CSS and custom styles
+└── index.tsx               # App entry point
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js (version 16 or higher)
+- npm package manager
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd kobo-labs
+   ```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Learn More
+### Build for Production
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm run build
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎯 Key Sections
+
+### 1. Hero Section
+- Eye-catching logo display
+- Compelling headline about global research collaboration
+- Call-to-action buttons
+- Feature highlights with icons
+
+### 2. About Section
+- Company mission and vision
+- Key statistics and achievements
+- Core values and principles
+
+### 3. Research Areas
+- Six main research domains
+- Interactive cards with descriptions
+- Call-to-action for collaboration
+
+### 4. Collaboration Features
+- Platform capabilities showcase
+- How-it-works process
+- Feature highlights with icons
+
+### 5. Contact Section
+- Professional contact form
+- Company contact information
+- Newsletter signup
+
+## 🔧 Customization
+
+### Colors
+The color scheme can be customized in `tailwind.config.js`:
+- Primary: Blue tones (#0ea5e9)
+- Secondary: Gray tones (#64748b)
+- Accent: Purple tones (#d946ef)
+
+### Logo
+The logo component is located in `src/components/Logo.tsx` and can be easily modified to match your brand.
+
+### Content
+All text content is easily editable in the respective component files.
+
+## 📱 Responsive Design
+
+The website is fully responsive and optimized for:
+- Mobile devices (320px+)
+- Tablets (768px+)
+- Desktop (1024px+)
+- Large screens (1280px+)
+
+## 🎭 Animations
+
+- **Framer Motion**: Smooth scroll-triggered animations
+- **CSS Transitions**: Hover effects and micro-interactions
+- **Custom Keyframes**: Floating and bouncing animations
+
+## 🚀 Future Enhancements
+
+- **Authentication System**: User login and registration
+- **Real-time Chat**: In-app messaging between researchers
+- **Project Management**: Research project tracking
+- **Video Conferencing**: Built-in collaboration tools
+- **Database Integration**: Backend API development
+- **User Profiles**: Researcher profile management
+
+## 📄 License
+
+This project is proprietary to Kobo Labs.
+
+## 🤝 Contributing
+
+For internal development and contributions, please follow the established coding standards and component structure.
+
+## 📞 Support
+
+For questions or support, contact the development team or refer to the project documentation.
+
+---
+
+**Kobo Labs** - Connecting researchers worldwide for breakthrough innovations.
