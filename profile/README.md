@@ -9,7 +9,7 @@ AI-Powered Matching: Our algorithms connect you with the perfect research partne
 Global Research Network: From Stanford to Singapore, Tokyo to Toronto - we're everywhere researchers are
 Breakthrough Acceleration: We don't just connect people; we accelerate discoveries by 10x
 💡 Our Vision: Democratizing research collaboration so that brilliant minds can work together regardless of geography, institution, or field.
-🌟 Join 1000+ researchers who've already discovered the power of AI-enhanced collaboration. Whether you're a PhD student looking for a mentor, a professor seeking collaborators, or an organization wanting to tap into global research talent - we've got you covered.
+🌟 Join 1000+ researchers who've already discovered the power of AI-enhanced collaboration. Whether you're a student looking for a mentor, a professor seeking collaborators, or an organization wanting to tap into global research talent and build stuff - we've got you covered.
 
 ### Ready to transform your research journey? Let's build the future of discovery together! 🧬🔬⚡
 
