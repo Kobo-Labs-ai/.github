@@ -2,6 +2,10 @@
 
 > **AI-Powered Research Collaboration Platform**
 
+## Hi there 👋
+
+Welcome to **Kobo Labs** - where AI meets research collaboration! We're revolutionizing how researchers connect, collaborate, and discover breakthroughs across the globe.
+
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](https://github.com/Kobo-Labs-ai)
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-blue.svg)](https://kobolabs.com)
 [![Tech: React](https://img.shields.io/badge/Tech-React-61DAFB.svg)](https://reactjs.org/)
@@ -87,6 +91,45 @@ Ready to transform your research experience? Connect with us and discover the fu
 - 📧 [Contact](mailto:info@kobolabs.com)
 - 🐦 [Twitter](https://twitter.com/kobolabs)
 - 💼 [LinkedIn](https://linkedin.com/company/kobolabs)
+
+---
+
+## 🍿 Fun Facts About Our Team
+
+- **🌅 Morning Ritual**: We start each day with AI-powered research insights and ☕
+- **🚀 Innovation Fuel**: Our team thrives on solving complex research collaboration challenges
+- **🌍 Global Mindset**: We think globally, collaborate locally, and innovate everywhere
+- **🤖 AI Enthusiasts**: We believe AI should enhance human creativity, not replace it
+- **🎯 Mission-Driven**: Every line of code we write serves our mission to democratize research
+
+---
+
+## 👩‍💻 Useful Resources
+
+- **📚 Documentation**: [kobolabs.com/docs](https://kobolabs.com/docs)
+- **🔧 API Reference**: [kobolabs.com/api](https://kobolabs.com/api)
+- **💡 Developer Portal**: [kobolabs.com/developers](https://kobolabs.com/developers)
+- **📖 Research Papers**: [kobolabs.com/research](https://kobolabs.com/research)
+- **🎓 Academic Partnerships**: [kobolabs.com/partners](https://kobolabs.com/partners)
+
+---
+
+## 🌈 How to Get Involved
+
+**For Researchers:**
+- 🎓 Join our global research network
+- 🤝 Connect with world-class mentors
+- 🚀 Access AI-powered research tools
+
+**For Developers:**
+- 🔧 Contribute to our open-source components
+- 🐛 Report bugs and suggest features
+- 📖 Improve our documentation
+
+**For Organizations:**
+- 💼 Explore commercial partnerships
+- 🔒 Discuss licensing opportunities
+- 🌟 Join our advisory board
 
 ---
 
